@@ -57,7 +57,7 @@ AudioOUT用(筐体内に貫通する位置注意)、スピーカー用<br>
 <img src="img/71_SPEAKER.jpg" width="600"><br>
 
 1. 基板に部品実装<br>
-AMP,C1,C3,C4,C5
+AMP,C1,C3,C4,C5<br>
  <img src="img/75_Barcoder_Amp.jpg" width="600"><br>
 
 1. 基板に配線接続<br>
@@ -84,7 +84,7 @@ AudioOutケーブルを筐体にあけた穴から通して基板に接続する
 <img src="img/100_AudioOut.jpg" width="600"><br>
 AudioOut(白)OUT1、AudioOut(赤)BZ2、AudioOut(黒)G1<br>
 <img src="img/101_AudioOut.jpg" width="600"><br>
-スペーサを基板の下に入れて固定する
+スペーサを基板の下に入れて固定する<br>
 <img src="img/102_Fix.jpg" width="600"><br>
 
 1. 動作確認2<br>
