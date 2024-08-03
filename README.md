@@ -13,6 +13,7 @@
 * コンデンサ　[1.0μF](https://akizukidenshi.com/catalog/g/gP-07549/)
 * オーディオ延長ケーブル　[3.5mmステレオミニ](https://akizukidenshi.com/catalog/g/gC-13084/)
 * スライドスイッチ　[スライドスイッチ](https://akizukidenshi.com/catalog/g/gP-15370/)
+* スペーサ [樹脂ワッシャー](https://akizukidenshi.com/catalog/g/g115881/)
 * バーコーダ用基板<br>
   <details><summary>基板</summary>
   <img src="img/0_BarcoderAmp.png" width="600" alt="BarcoderAmp.png"></details>
