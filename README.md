@@ -29,6 +29,9 @@
 </details>
 
 ## 作製手順
+0. バーコードリーダーの動作設定
+常にレーザーが照射される連続動作モード(Continuous Mode)にするため、設定用のバーコードを読み込む。
+
 1. 配線の準備<br>
 <img src="img/11_WireAndParts.jpg" width="600"><br>
 
